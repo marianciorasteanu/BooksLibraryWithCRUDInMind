@@ -177,7 +177,7 @@ the necessary plugins for build (jar make) and download dependencies sources and
 </plugins>
 ```
 
-<br>
+<!---<br>
 
 _Statistics_
 
@@ -207,4 +207,4 @@ Released under [MIT](/LICENSE) by [@valentinsoare](https://github.com/valentinso
 [2]: <https://i.postimg.cc/QNBM8Tcj/Screenshot-from-2023-12-19-11-04-48.png> (DataAccessObjectGenericIntefaceMethods)
 [3]: <https://i.postimg.cc/FHL2K0ZX/Screenshot-from-2023-12-19-11-09-59.png> (QueryTemplate abstract class)
 [4]: <https://i.postimg.cc/7Pm3C6PB/Screenshot-from-2023-12-19-11-19-36.png> (ConnectionToDB)
-[5]: <https://i.postimg.cc/7Pm3C6PB/Screenshot-from-2023-12-19-11-19-36.png> (BookDAO)
+[5]: <https://i.postimg.cc/7Pm3C6PB/Screenshot-from-2023-12-19-11-19-36.png> (BookDAO)--->
